@@ -45,11 +45,11 @@ password: password
 # That's all 🎊🎉 
 
 ## ScreenShots
-<img src="Screenshots/lms (1).png" width="100%" /><br /> <br />
-<img src="Screenshots/lms (2).png" width="100%" /><br /> <br />
-<img src="Screenshots/lms (3).png" width="100%" /><br /> <br />
-<img src="Screenshots/lms (4).png" width="100%" /><br /> <br />
-<img src="Screenshots/lms (5).png" width="100%" /><br /> <br />
+<img src="candidate-form.png" width="100%" /><br /> <br />
+<img src="dashboard.png" width="100%" /><br /> <br />
+<img src="tally.png" width="100%" /><br /> <br />
+<img src="voter.png" width="100%" /><br /> <br />
+<img src="voter-form.png" width="100%" /><br /> <br />
 <img src="Screenshots/lms (6).png" width="100%" /><br /> <br />
 <img src="Screenshots/lms (7).png" width="100%" /><br /> <br />
 <img src="Screenshots/lms (8).png" width="100%" /><br /> <br />
